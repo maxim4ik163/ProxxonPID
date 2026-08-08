@@ -1,0 +1,130 @@
+Add component: Footprint Not Found RB7.6-15
+Add component: Footprint Not Found CERCAP SMD0603L (IPC1608L)
+Add component: Footprint Not Found CERCAP SMD0603L (IPC1608L)
+Add component: Footprint Not Found CERCAP SMD0603L (IPC1608L)
+Add component: Footprint Not Found CERCAP SMD0603L (IPC1608L)
+Add component: Footprint Not Found CERCAP SMD0603L (IPC1608L)
+Add component: Footprint Not Found CERCAP SMD0603L (IPC1608L)
+Add component: Footprint Not Found CERCAP SMD0603L (IPC1608L)
+Add component: Footprint Not Found CERCAP SMD0603L (IPC1608L)
+Add component: Footprint Not Found CERCAP SMD0603L (IPC1608L)
+Add component: Footprint Not Found CERCAP SMD0603L (IPC1608L)
+Add component: Footprint Not Found CERCAP SMD0603L (IPC1608L)
+Add component: Footprint Not Found DIO10.46-5.3x2.8
+Added Component: Designator=IC1(QFP80P900X900X120-32N)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/ATMEGA328PBAU/Microchip+Technology/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Microchip Technology"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ATMEGA328PBAU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ATMEGA328PBAU/Microchip+Technology/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component: Footprint Not Found HDR2X3_CEN
+Add component: Footprint Not Found BCY-W3/B.8
+Add component: Footprint Not Found RES smd0603 (IPC-1608)
+Add component: Footprint Not Found RES smd0603 (IPC-1608)
+Add component: Footprint Not Found RES smd0603 (IPC-1608)
+Add component: Footprint Not Found RES smd0603 (IPC-1608)
+Add component: Footprint Not Found RES smd0603 (IPC-1608)
+Add component: Footprint Not Found RES smd0603 (IPC-1608)
+Add component: Footprint Not Found RES smd0603 (IPC-1608)
+Add component: Footprint Not Found RES smd0603 (IPC-1608)
+Add component: Footprint Not Found RES smd0603 (IPC-1608)
+Add component: Footprint Not Found RES smd0603 (IPC-1608)
+Added Component: Designator=R11(FP-MCT0603-MFG)
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Composition"; Value = "Thin Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.45mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "1.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "125mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "4.02kR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "0.1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "75V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "6.7E-05oz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "0.85mm"; VariantName = "[No Variations]"
+Add component: Footprint Not Found DPAK - duplicate
+Added Component: Designator=VR1(TRIM_3362W-1-203LF)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/3362W-1-203LF/Bourns/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "3362W-1-203LF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "DIP-3 Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/3362W-1-203LF/Bourns/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Added Component: Designator=VR2(TRIM_3362W-1-203LF)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/3362W-1-203LF/Bourns/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "3362W-1-203LF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "DIP-3 Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/3362W-1-203LF/Bourns/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Added Component: Designator=VR3(TRIM_3362W-1-203LF)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/3362W-1-203LF/Bourns/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "3362W-1-203LF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "DIP-3 Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/3362W-1-203LF/Bourns/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "?"; VariantName = "[No Variations]"
+Add component: Footprint Not Found HC-49/U3H  (KX-3H)
+Add component: Footprint Not Found CERCAP SMD0603L (IPC1608L)
+Added Pin To Net: NetName=5V Pin=IC1-4
+Added Pin To Net: NetName=5V Pin=IC1-6
+Added Pin To Net: NetName=5V Pin=IC1-18
+Added Pin To Net: NetName=5V Pin=VR1-3
+Added Pin To Net: NetName=5V Pin=VR2-3
+Added Pin To Net: NetName=5V Pin=VR3-3
+Added Net: Name=5V
+Added Pin To Net: NetName=BEMF_PIN Pin=IC1-23
+Added Net: Name=BEMF_PIN
+Added Net: Name=BEMF
+Added Pin To Net: NetName=GND Pin=IC1-3
+Added Pin To Net: NetName=GND Pin=IC1-5
+Added Pin To Net: NetName=GND Pin=IC1-21
+Added Pin To Net: NetName=GND Pin=VR1-1
+Added Pin To Net: NetName=GND Pin=VR2-1
+Added Pin To Net: NetName=GND Pin=VR3-1
+Added Net: Name=GND
+Added Pin To Net: NetName=I_PIN Pin=IC1-27
+Added Pin To Net: NetName=I_PIN Pin=VR1-2
+Added Net: Name=I_PIN
+Added Pin To Net: NetName=MISO Pin=IC1-16
+Added Net: Name=MISO
+Added Pin To Net: NetName=MOSI Pin=IC1-15
+Added Net: Name=MOSI
+Added Pin To Net: NetName=NetC4_1 Pin=IC1-20
+Added Net: Name=NetC4_1
+Added Pin To Net: NetName=NetIC1_30 Pin=IC1-30
+Added Net: Name=NetIC1_30
+Added Pin To Net: NetName=NetIC1_31 Pin=IC1-31
+Added Net: Name=NetIC1_31
+Added Net: Name=NetQ1_1
+Added Net: Name=NetR5_1
+Added Net: Name=NetR6_2
+Added Pin To Net: NetName=P_PIN Pin=IC1-26
+Added Pin To Net: NetName=P_PIN Pin=VR2-2
+Added Net: Name=P_PIN
+Added Pin To Net: NetName=PWM_PIN Pin=IC1-1
+Added Net: Name=PWM_PIN
+Added Pin To Net: NetName=RESET Pin=IC1-29
+Added Net: Name=RESET
+Added Net: Name=RX
+Added Pin To Net: NetName=SCK Pin=IC1-17
+Added Net: Name=SCK
+Added Pin To Net: NetName=SPEED_PIN Pin=IC1-25
+Added Pin To Net: NetName=SPEED_PIN Pin=VR3-2
+Added Net: Name=SPEED_PIN
+Added Net: Name=TX
+Added Net: Name=Vin
+Added Pin To Net: NetName=VMOT_PIN Pin=IC1-24
+Added Net: Name=VMOT_PIN
+Added Pin To Net: NetName=XTAL1 Pin=IC1-7
+Added Net: Name=XTAL1
+Added Pin To Net: NetName=XTAL2 Pin=IC1-8
+Added Net: Name=XTAL2
+Added Class: Name=Scheme
+Added Rule: Name=Schematic Supply Nets
+Added Rule: Name=Schematic Supply Nets_1
+Added Rule: Name=Schematic Supply Nets_2

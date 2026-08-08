@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=BEMF_PIN Pin=IC1-23
+Removed Pin From Net: NetName=P_PIN Pin=IC1-26
+Add component: Footprint Not Found DIO10.46-5.3x2.8
+Add Pin To Net: Unknown Pin: Pin D1-1
+Add Pin To Net: Unknown Pin: Pin D1-2
+Added Pin To Net: NetName=P_PIN Pin=IC1-23
+Added Pin To Net: NetName=BEMF_PIN Pin=IC1-26
+Add Class Member: Failed to add class member : Component D1 Diode 1N4006

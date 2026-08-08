@@ -1,0 +1,65 @@
+Change Component Comment : Designator=R9 Old Comment=4k7 New Comment=2k7
+Change Component Comment : Designator=R10 Old Comment=4k7 New Comment=2k7
+Change Component Description : Designator=VR2 Old Description=1/4 Sq, Thru-Hole, TRIMMER, 20 Kilohms, Cermet, Single Turn New Description=1/4 Sq, Thru-Hole, TRIMMER, 20 Kilohms, Cermet, Single Turn | Bourns 3362W-1-203LF
+Change Component Description : Designator=VR3 Old Description=1/4 Sq, Thru-Hole, TRIMMER, 20 Kilohms, Cermet, Single Turn New Description=1/4 Sq, Thru-Hole, TRIMMER, 20 Kilohms, Cermet, Single Turn | Bourns 3362W-1-203LF
+Change Component Description : Designator=VR4 Old Description=1/4 Sq, Thru-Hole, TRIMMER, 20 Kilohms, Cermet, Single Turn New Description=1/4 Sq, Thru-Hole, TRIMMER, 20 Kilohms, Cermet, Single Turn | Bourns 3362W-1-203LF
+Added Component: Designator=C6(CAPC1608X92X38ML15T08)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vitramon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "VJ0603Y102KXXAC"; VariantName = "[No Variations]"
+Add component: Footprint Not Found DIO10.46-5.3x2.8
+Added Component: Designator=ICSP1(PBS3x2)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=M1(placeholder)
+Add component (AddParameter): Name = "BM"; Value = "0.1M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JM"; Value = "250U"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "KE"; Value = "0.05"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "KT"; Value = "0.05"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LA"; Value = "1.5M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RA"; Value = "0.5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SimulationGenericComponent"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TL"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=R12(FP-MCT0603-MFG)
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Composition"; Value = "Thin Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.45mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "1.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "125mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "4.02kR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "0.1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "75V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "6.7E-05oz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "0.85mm"; VariantName = "[No Variations]"
+Added Component: Designator=VR1(placeholder)
+Add component (AddParameter): Name = "closed"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rclosed"; Value = "1m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ropen"; Value = "1Meg"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SimulationGenericComponent"; Value = "True"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=BEMF Pin=C6-1
+Added Pin To Net: NetName=+20V Pin=C6-2
+Add Pin To Net: Unknown Pin: Pin D1-1
+Add Pin To Net: Unknown Pin: Pin D1-2
+Added Pin To Net: NetName=MISO Pin=ICSP1-1
+Added Pin To Net: NetName=5V Pin=ICSP1-2
+Added Pin To Net: NetName=SCK Pin=ICSP1-3
+Added Pin To Net: NetName=MOSI Pin=ICSP1-4
+Added Pin To Net: NetName=RESET Pin=ICSP1-5
+Added Pin To Net: NetName=GND Pin=ICSP1-6
+Added Pin To Net: NetName=+20V Pin=M1-1
+Added Pin To Net: NetName=BEMF Pin=M1-2
+Added Pin To Net: NetName=RESET Pin=R12-1
+Added Pin To Net: NetName=5V Pin=R12-2
+Added Pin To Net: NetName=Vin Pin=VR1-1
+Added Pin To Net: NetName=+20V Pin=VR1-2
+Added Member To Class: ClassName=Scheme Member=Component C6 100nF
+Add Class Member: Failed to add class member : Component D1 Diode 1N4006
+Added Member To Class: ClassName=Scheme Member=Component ICSP1
+Added Member To Class: ClassName=Scheme Member=Component M1 DC Motor
+Added Member To Class: ClassName=Scheme Member=Component R12 10k
+Added Member To Class: ClassName=Scheme Member=Component VR1 Switch Normally Opened

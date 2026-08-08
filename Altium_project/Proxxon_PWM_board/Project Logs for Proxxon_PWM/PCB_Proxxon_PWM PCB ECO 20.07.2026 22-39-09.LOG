@@ -1,0 +1,116 @@
+Change Component Designator: OldDesignator=R? NewDesignator=R1
+Change Component Designator: OldDesignator=R? NewDesignator=R2
+Add component: Footprint Not Found RB7.6-15
+Add component: Footprint Not Found CERCAP SMD0603L (IPC1608L)
+Add component: Footprint Not Found CERCAP SMD0603L (IPC1608L)
+Add component: Footprint Not Found CERCAP SMD0603L (IPC1608L)
+Add component: Footprint Not Found CERCAP SMD0603L (IPC1608L)
+Add component: Footprint Not Found CERCAP SMD0603L (IPC1608L)
+Add component: Footprint Not Found CERCAP SMD0603L (IPC1608L)
+Add component: Footprint Not Found CERCAP SMD0603L (IPC1608L)
+Add component: Footprint Not Found CERCAP SMD0603L (IPC1608L)
+Add component: Footprint Not Found CERCAP SMD0603L (IPC1608L)
+Add component: Footprint Not Found CERCAP SMD0603L (IPC1608L)
+Add component: Footprint Not Found CERCAP SMD0603L (IPC1608L)
+Add component: Footprint Not Found DIO10.46-5.3x2.8
+Add component: Footprint Not Found HDR2X3_CEN
+Add component: Footprint Not Found BCY-W3/B.8
+Add component: Footprint Not Found RES smd0603 (IPC-1608)
+Add component: Footprint Not Found RES smd0603 (IPC-1608)
+Add component: Footprint Not Found RES smd0603 (IPC-1608)
+Add component: Footprint Not Found RES smd0603 (IPC-1608)
+Add component: Footprint Not Found RES smd0603 (IPC-1608)
+Add component: Footprint Not Found RES smd0603 (IPC-1608)
+Add component: Footprint Not Found RES smd0603 (IPC-1608)
+Add component: Footprint Not Found RES smd0603 (IPC-1608)
+Add component: Footprint Not Found DPAK - duplicate
+Add component: Footprint Not Found HC-49/U3H  (KX-3H)
+Add component: Footprint Not Found CERCAP SMD0603L (IPC1608L)
+Add Pin To Net: Unknown Pin: Pin C1-1
+Add Pin To Net: Unknown Pin: Pin C1-2
+Add Pin To Net: Unknown Pin: Pin C2-1
+Add Pin To Net: Unknown Pin: Pin C2-2
+Add Pin To Net: Unknown Pin: Pin C3-1
+Add Pin To Net: Unknown Pin: Pin C3-2
+Add Pin To Net: Unknown Pin: Pin C4-1
+Add Pin To Net: Unknown Pin: Pin C4-2
+Add Pin To Net: Unknown Pin: Pin C5-1
+Add Pin To Net: Unknown Pin: Pin C5-2
+Add Pin To Net: Unknown Pin: Pin C6-1
+Add Pin To Net: Unknown Pin: Pin C6-2
+Add Pin To Net: Unknown Pin: Pin C7-1
+Add Pin To Net: Unknown Pin: Pin C7-2
+Add Pin To Net: Unknown Pin: Pin C8-1
+Add Pin To Net: Unknown Pin: Pin C8-2
+Add Pin To Net: Unknown Pin: Pin C9-1
+Add Pin To Net: Unknown Pin: Pin C9-2
+Add Pin To Net: Unknown Pin: Pin C10-1
+Add Pin To Net: Unknown Pin: Pin C10-2
+Add Pin To Net: Unknown Pin: Pin C11-1
+Add Pin To Net: Unknown Pin: Pin C11-2
+Add Pin To Net: Unknown Pin: Pin C12-1
+Add Pin To Net: Unknown Pin: Pin C12-2
+Add Pin To Net: Unknown Pin: Pin D1-1
+Add Pin To Net: Unknown Pin: Pin D1-2
+Add Pin To Net: Unknown Pin: Pin M1-+
+Add Pin To Net: Unknown Pin: Pin M1--
+Add Pin To Net: Unknown Pin: Pin P1-1
+Add Pin To Net: Unknown Pin: Pin P1-2
+Add Pin To Net: Unknown Pin: Pin P1-3
+Add Pin To Net: Unknown Pin: Pin P1-4
+Add Pin To Net: Unknown Pin: Pin P1-5
+Add Pin To Net: Unknown Pin: Pin P1-6
+Add Pin To Net: Unknown Pin: Pin Q1-1
+Add Pin To Net: Unknown Pin: Pin Q1-2
+Add Pin To Net: Unknown Pin: Pin Q1-3
+Add Pin To Net: Unknown Pin: Pin R3-1
+Add Pin To Net: Unknown Pin: Pin R3-2
+Add Pin To Net: Unknown Pin: Pin R4-1
+Add Pin To Net: Unknown Pin: Pin R4-2
+Add Pin To Net: Unknown Pin: Pin R5-1
+Add Pin To Net: Unknown Pin: Pin R5-2
+Add Pin To Net: Unknown Pin: Pin R6-1
+Add Pin To Net: Unknown Pin: Pin R6-2
+Add Pin To Net: Unknown Pin: Pin R7-1
+Add Pin To Net: Unknown Pin: Pin R7-2
+Add Pin To Net: Unknown Pin: Pin R8-1
+Add Pin To Net: Unknown Pin: Pin R8-2
+Add Pin To Net: Unknown Pin: Pin R9-1
+Add Pin To Net: Unknown Pin: Pin R9-2
+Add Pin To Net: Unknown Pin: Pin R10-1
+Add Pin To Net: Unknown Pin: Pin R10-2
+Add Pin To Net: Unknown Pin: Pin U1-1
+Add Pin To Net: Unknown Pin: Pin U1-2
+Add Pin To Net: Unknown Pin: Pin U1-3
+Add Pin To Net: Unknown Pin: Pin Y1-1
+Add Pin To Net: Unknown Pin: Pin Y1-2
+Add Pin To Net: Unknown Pin: Pin Ñ1-1
+Add Pin To Net: Unknown Pin: Pin Ñ1-2
+Add Class Member: Failed to add class member : Component C1 Cap Pol1
+Add Class Member: Failed to add class member : Component C2 0.1uF
+Add Class Member: Failed to add class member : Component C3 0.1uF
+Add Class Member: Failed to add class member : Component C4 100nF
+Add Class Member: Failed to add class member : Component C5 1uF
+Add Class Member: Failed to add class member : Component C6 100nF
+Add Class Member: Failed to add class member : Component C7 =Value
+Add Class Member: Failed to add class member : Component C8 =Value
+Add Class Member: Failed to add class member : Component C9 0.1uF
+Add Class Member: Failed to add class member : Component C10 0.1uF
+Add Class Member: Failed to add class member : Component C11 0.1uF
+Add Class Member: Failed to add class member : Component C12 0.1uF
+Add Class Member: Failed to add class member : Component D1 Diode 1N4006
+Add Class Member: Failed to add class member : Component M1 DC Motor
+Add Class Member: Failed to add class member : Component P1 ICSP
+Add Class Member: Failed to add class member : Component Q1 IRLZ44
+Added Member To Class: ClassName=Scheme Member=Component R1 1k
+Add Class Member: Failed to add class member : Component R3 100
+Add Class Member: Failed to add class member : Component R4 10k
+Add Class Member: Failed to add class member : Component R5 10k
+Add Class Member: Failed to add class member : Component R6 10k
+Add Class Member: Failed to add class member : Component R7 10k
+Add Class Member: Failed to add class member : Component R8 10k
+Add Class Member: Failed to add class member : Component R9 4k7
+Add Class Member: Failed to add class member : Component R10 4k7
+Add Class Member: Failed to add class member : Component U1 L7805
+Add Class Member: Failed to add class member : Component Y1 16MHz
+Add Class Member: Failed to add class member : Component Ñ1 0.1uF

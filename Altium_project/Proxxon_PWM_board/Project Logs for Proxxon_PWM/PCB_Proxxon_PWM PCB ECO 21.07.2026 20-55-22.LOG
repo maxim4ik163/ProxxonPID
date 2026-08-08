@@ -1,0 +1,6 @@
+Change Component Comment : Designator=P1 Old Comment=ICSP New Comment=
+Change Component Designator: OldDesignator=P1 NewDesignator=ICSP
+Add component: Footprint Not Found DIO10.46-5.3x2.8
+Add Pin To Net: Unknown Pin: Pin D1-1
+Add Pin To Net: Unknown Pin: Pin D1-2
+Add Class Member: Failed to add class member : Component D1 Diode 1N4006

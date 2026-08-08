@@ -1,0 +1,33 @@
+Change Component Footprint: Designator=U1 Old Footprint=VREG_L7805CDTTR New Footprint=TO220
+Change Component Comment : Designator=U1 Old Comment=L7805 New Comment=L7805ABV
+Change Managed Component Library Link : Designator=U1 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=3E47D384-C6C7-4A31-9432-2598F30343B9 Old RevisionGUID= New RevisionGUID=FFCA6A91-2969-48B5-A187-BE39FA5AC557
+Change component parameters: Designator = "U1" ("U1"); Footprint = "VREG_L7805CDTTR"; UniqueID = "\CHSNSGDQ" ("\CHSNSGDQ")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.st.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.st.com/internet/com/TECHNICAL_RESOURCES/TECHNICAL_LITERATURE/DATASHEET/CD00000444.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.st.com/internet/com/TECHNICAL_RESOURCES/TECHNICAL_LITERATURE/PACKAGE_INFORMATION/CD00004649.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DatasheetVersion"; Value = "16/11/2011"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "TO, Thru-Hole, Vertical, Heatsink Mounted; 3 In-Line Leads; Pitch 2.54 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "TO220"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageVersion"; Value = "ver3.0"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin C6-1
+Add Pin To Net: Unknown Pin: Pin C6-2
+Add Pin To Net: Unknown Pin: Pin D1-1
+Add Pin To Net: Unknown Pin: Pin D1-2
+Add Pin To Net: Unknown Pin: Pin ICSP-1
+Add Pin To Net: Unknown Pin: Pin ICSP-2
+Add Pin To Net: Unknown Pin: Pin ICSP-3
+Add Pin To Net: Unknown Pin: Pin ICSP-4
+Add Pin To Net: Unknown Pin: Pin ICSP-5
+Add Pin To Net: Unknown Pin: Pin ICSP-6
+Add Pin To Net: Unknown Pin: Pin M1-1
+Add Pin To Net: Unknown Pin: Pin M1-2
+Add Pin To Net: Unknown Pin: Pin VR3_SW-1
+Add Pin To Net: Unknown Pin: Pin VR3_SW-2
+Add Class Member: Failed to add class member : Component C6 100nF
+Add Class Member: Failed to add class member : Component D1 Diode 1N4006
+Add Class Member: Failed to add class member : Component ICSP
+Add Class Member: Failed to add class member : Component M1 DC Motor
+Add Class Member: Failed to add class member : Component VR3_SW Switch Normally Opened
